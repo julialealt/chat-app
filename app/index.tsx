@@ -1,7 +1,6 @@
-import React from "react";
 import { Container, Title } from './styles'
 
-export default function Index() {
+export default function Home() {
   return (
     <Container>
       <Title>Home</Title>
